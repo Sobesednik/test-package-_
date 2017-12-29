@@ -1,0 +1,3 @@
+const testPackage = require('./')
+
+testPackage()
